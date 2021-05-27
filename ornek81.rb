@@ -1,0 +1,1 @@
+puts /er/ =~ "büyük veri"
